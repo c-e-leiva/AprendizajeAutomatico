@@ -1,4 +1,4 @@
-🧠 Aprendizaje Automático - Desafíos y Trabajos Prácticos
+# 🧠 Aprendizaje Automático - Desafíos y Trabajos Prácticos
 
 ¡Bienvenido/a a mi repositorio de Aprendizaje Automático! 🌟
 En este espacio encontrarás mis desempeños prácticos desarrollados a lo largo de la carrera de Inteligencia Artificial y Ciencia de Datos. 🖥️📊
